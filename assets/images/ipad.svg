@@ -1,0 +1,15 @@
+<svg id="ipad" xmlns="http://www.w3.org/2000/svg" width="570" height="416" viewBox="0 0 570 416">
+  <rect id="Rectangle" width="570" height="416" rx="24" fill="#74a2d6"/>
+  <rect id="Rectangle-2" data-name="Rectangle" width="538" height="384" rx="16" transform="translate(16 16)" fill="#fff"/>
+  <rect id="Rectangle-3" data-name="Rectangle" width="103" height="37" rx="8" transform="translate(52 52)" fill="#ecedf3"/>
+  <rect id="Rectangle-4" data-name="Rectangle" width="63" height="21" rx="8" transform="translate(282 60)" fill="#ecedf3"/>
+  <rect id="Rectangle-5" data-name="Rectangle" width="487" height="188" rx="16" transform="translate(45 125)" fill="#ecedf3"/>
+  <rect id="Rectangle-6" data-name="Rectangle" width="147" height="36" rx="8" transform="translate(91 168)" fill="#fff"/>
+  <circle id="Oval" cx="68.5" cy="68.5" r="68.5" transform="translate(358 151)" fill="#fff"/>
+  <rect id="Rectangle-7" data-name="Rectangle" width="179" height="16" rx="8" transform="translate(91 225)" fill="#fff"/>
+  <rect id="Rectangle-8" data-name="Rectangle" width="163" height="16" rx="8" transform="translate(91 253)" fill="#fff"/>
+  <path id="Rectangle-9" data-name="Rectangle" d="M16,0H138a16,16,0,0,1,16,16V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V16A16,16,0,0,1,16,0Z" transform="translate(367 352)" fill="#ecedf3"/>
+  <path id="Rectangle-10" data-name="Rectangle" d="M16,0H138a16,16,0,0,1,16,16V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V16A16,16,0,0,1,16,0Z" transform="translate(183 352)" fill="#ecedf3"/>
+  <rect id="Rectangle-11" data-name="Rectangle" width="63" height="21" rx="8" transform="translate(370 60)" fill="#ecedf3"/>
+  <rect id="Rectangle-12" data-name="Rectangle" width="63" height="21" rx="8" transform="translate(458 60)" fill="#ecedf3"/>
+</svg>

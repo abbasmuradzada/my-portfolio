@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="292" viewBox="0 0 250 292">
+  <defs>
+    <filter id="Rectangle" x="0" y="0" width="250" height="292" filterUnits="userSpaceOnUse">
+      <feOffset dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-color="#000a23" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="graph" transform="translate(48 16)">
+    <g transform="matrix(1, 0, 0, 1, -48, -16)" filter="url(#Rectangle)">
+      <rect id="Rectangle-2" data-name="Rectangle" width="154" height="196" rx="16" transform="translate(48 16)" fill="#fff"/>
+    </g>
+    <path id="Oval" d="M87,44C87,19.7,67.524,0,43.5,0S0,19.7,0,44Z" transform="translate(121 127) rotate(180)" fill="#ef86b0"/>
+    <path id="Oval-2" data-name="Oval" d="M97,49C97,21.938,75.286,0,48.5,0S0,21.938,0,49Z" transform="translate(77.648 15) rotate(45)" fill="#f7d06f"/>
+    <path id="Oval-3" data-name="Oval" d="M108,54A54,54,0,0,0,0,54Z" transform="translate(1 82.816) rotate(-45)" fill="#74a2d6"/>
+    <circle id="Oval-4" data-name="Oval" cx="21" cy="21" r="21" transform="translate(56 62)" fill="#fff"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="16" height="16" rx="8" transform="translate(69 75)" fill="#ecedf3"/>
+    <rect id="Rectangle-4" data-name="Rectangle" width="90" height="16" rx="8" transform="translate(16 160)" fill="#ecedf3"/>
+    <rect id="Rectangle-5" data-name="Rectangle" width="25" height="16" rx="8" transform="translate(113 160)" fill="#ecedf3"/>
+  </g>
+</svg>

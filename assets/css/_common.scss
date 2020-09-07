@@ -1,0 +1,64 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    width: $container;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 1170px){
+    .container{
+        width: 100vw;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .container{
+        width: 100%;
+    }
+}
+
+.main-head{
+    @include font-style(56px, 700, 64px, $main-font-color);
+    text-transform: capitalize;
+}
+
+.main-head-dark{
+    @include font-style(56px, 700, 64px, white);
+    text-transform: capitalize;
+}
+
+.main-desc{
+    @include font-style(16px, 400, 32px, rgba($main-font-color, $alpha: 0.5));
+}
+
+.main-desc-dark{
+    @include font-style(16px, 400, 32px, rgba(white, $alpha: 0.5));
+}
+
+.general-font{
+    @include font-style(20px, 400, 32px, $main-font-color);
+}
+
+.general-font-dark{
+    @include font-style(20px, 400, 32px, white);
+}
+
+.section-title{
+    @include font-style(18px, 400, 32px, #74A2D6);
+    letter-spacing: .16em;
+    text-transform: uppercase;
+}
+
+.section-title-dark{
+    @include font-style(18px, 400, 32px, #F7D06F);
+    letter-spacing: .16em;
+    text-transform: uppercase;
+}
+
+
+.remove{
+    transform: translateY(-85px);
+    transform: translateY(-85px);
+}

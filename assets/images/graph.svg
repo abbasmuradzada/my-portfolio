@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="240" viewBox="0 0 312 240">
+  <defs>
+    <filter id="Rectangle" x="0" y="0" width="312" height="240" filterUnits="userSpaceOnUse">
+      <feOffset dy="-24" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-color="#000a23" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="graph" transform="translate(48 72)">
+    <g transform="matrix(1, 0, 0, 1, -48, -72)" filter="url(#Rectangle)">
+      <rect id="Rectangle-2" data-name="Rectangle" width="216" height="144" rx="16" transform="translate(48 72)" fill="#fff"/>
+    </g>
+    <path id="Rectangle-3" data-name="Rectangle" d="M8,0H20a8,8,0,0,1,8,8V60a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(25 34)" fill="#74a2d6"/>
+    <path id="Rectangle-4" data-name="Rectangle" d="M8,0H20a8,8,0,0,1,8,8V75a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(71 19)" fill="#f7d06f"/>
+    <path id="Rectangle-5" data-name="Rectangle" d="M8,0H20a8,8,0,0,1,8,8V45a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(117 49)" fill="#ef86b0"/>
+    <path id="Rectangle-6" data-name="Rectangle" d="M8,0H20a8,8,0,0,1,8,8V53a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(163 41)" fill="#b4c7e7"/>
+    <rect id="Rectangle-7" data-name="Rectangle" width="128" height="16" rx="8" transform="translate(21 110)" fill="#ecedf3"/>
+    <rect id="Rectangle-8" data-name="Rectangle" width="36" height="16" rx="8" transform="translate(159 110)" fill="#ecedf3"/>
+  </g>
+</svg>
